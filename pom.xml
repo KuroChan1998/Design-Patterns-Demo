@@ -18,7 +18,7 @@
         <project.build.fasterxml.jackson.version>2.10.0.pr1</project.build.fasterxml.jackson.version>
         <project.build.codehaus.jackson.core.version>1.9.13</project.build.codehaus.jackson.core.version>
         <!-- Common util -->
-        <project.build.commons.io.version>2.4</project.build.commons.io.version>
+        <project.build.commons.io.version>2.7</project.build.commons.io.version>
         <project.build.commons.lang3.version>3.3.2</project.build.commons.lang3.version>
         <!--lombok-->
         <project.build.lombok.version>1.18.8</project.build.lombok.version>
